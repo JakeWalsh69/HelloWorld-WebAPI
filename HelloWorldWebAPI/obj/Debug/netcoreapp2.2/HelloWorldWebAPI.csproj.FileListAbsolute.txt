@@ -1,0 +1,14 @@
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\bin\Debug\netcoreapp2.2\HelloWorldWebAPI.deps.json
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\bin\Debug\netcoreapp2.2\HelloWorldWebAPI.runtimeconfig.json
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\bin\Debug\netcoreapp2.2\HelloWorldWebAPI.runtimeconfig.dev.json
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\bin\Debug\netcoreapp2.2\HelloWorldWebAPI.dll
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\bin\Debug\netcoreapp2.2\HelloWorldWebAPI.pdb
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.csprojAssemblyReference.cache
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.csproj.CoreCompileInputs.cache
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.RazorAssemblyInfo.cache
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.RazorAssemblyInfo.cs
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.AssemblyInfoInputs.cache
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.AssemblyInfo.cs
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.RazorTargetAssemblyInfo.cache
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.dll
+C:\GC\AndroidStudio19\HelloWorldWebAPI\HelloWorldWebAPI\obj\Debug\netcoreapp2.2\HelloWorldWebAPI.pdb
